@@ -1,0 +1,42 @@
+
+span {
+    flex: auto;
+    margin-top: 10px;
+}
+
+.top_bar_main{
+    display: flex;
+    min-height: 60px;
+    background-color:rgb(228, 228, 228);
+}
+
+.options_bar_div{
+    flex: auto;
+    display: flex;
+    padding:15px;
+}
+
+.search_div{
+    flex: auto;
+    min-width: 60%;
+    padding-top: 20px;
+}
+
+input{
+    margin-right:15px;
+    float: right;
+    width:75%;
+    height: 25px;
+}
+
+.saved_list_button{
+    background-color:navy;
+    color: white;
+    padding: 10px;
+}
+
+.saved_list_div{
+    flex:auto;
+}
+
+
